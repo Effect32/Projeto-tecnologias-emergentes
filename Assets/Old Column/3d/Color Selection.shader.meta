@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: da566b9613736d84faf9df4da535ef40
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 130073
+  packageName: Old Column
+  packageVersion: 1.0
+  assetPath: Assets/Old Column/3d/Color Selection.shader
+  uploadId: 270932
